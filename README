@@ -1,0 +1,33 @@
+MOODLE MODULE FOR INLINE COMMENTING IN QUIZ 
+
+Undergraduate Database Course Project
+ 
+Guide:
+Prof. Sudarshan
+http://www.cse.iitb.ac.in/~sudarsha/
+
+Team Members
+1) Sriram Bhargav
+2) Varun Reddy
+3) Deepankar Reddy
+4) Hasan Kumar Reddy A
+
+DESCRIPTION
+    Purpose of the project is to introduce new features into moodle. The project
+aims at introducing inline commenting feature in Moodle forums and to embed code
+highlighter feature into moodle forums and to embed the ability of making groups
+for a particular project or assignment In brief, Inline commenting feature is to
+comment on a part of section of code or forum, so as to enhance communication 
+between Professor/TA’s and student with the feature of Professor being able to 
+moderate the thread. Code highlighter feature is to increase visual appeal and 
+to make code more readable. We will be able to create groups of student for 
+particular project or assignment so that they all can view same submission page 
+and will be able to get marks and crib through same thread we are creating.
+
+
+HOW TO USE THE CODE
+* The folder 'moodle' contains the files which are either newly created or changed when compared with moodle_2.1.2+ version
+* Please merge and overwrite the given folder with original code base to get complete code.
+
+
+
